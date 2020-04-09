@@ -1,0 +1,12 @@
+/**
+ * MainState Action Types
+ */
+export const GET_REGION = "GET_REGION";
+export const GET_REGION_SUCCESS = "GET_REGION_SUCCESS";
+export const GET_REGION_FAILURE = "GET_REGION_FAILURE";
+
+export const GET_FORECAST = "GET_FORECAST";
+export const GET_FORECAST_SUCCESS = "GET_FORECAST_SUCCESS";
+export const GET_FORECAST_FAILURE = "GET_FORECAST_FAILURE";
+
+export const FILTER_REGION = "FILTER_REGION";
